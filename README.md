@@ -17,6 +17,7 @@ Took a working Express.js API and configured it to use Sequelize to interact wit
 
 ** Video and Github **
 - https://github.com/spencerjpross/e-commerce
+- https://drive.google.com/file/d/1oaO-3t9peP8Af-X1baZfw9wzMg7avTEp/view
 
 ** Installation **
 - Install Dotenv, express, sequelize, and mysql
